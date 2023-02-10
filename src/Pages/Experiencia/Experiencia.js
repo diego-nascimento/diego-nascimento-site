@@ -20,10 +20,10 @@ function Experiencia(props) {
         <VerticalTimeline animate layout="2-columns">
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-            contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
+            contentStyle={{ background: '#0277bd', color: '#fff' }}
+            contentArrowStyle={{ borderRight: '7px solid #0277bd' }}
             date="2021 - 2023"
-            iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+            iconStyle={{ background: '#0277bd', color: '#fff' }}
           >
             <h3 className="vertical-timeline-element-title">
               Analista de Sistemas Senior
@@ -45,10 +45,10 @@ function Experiencia(props) {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
-            contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
+            contentStyle={{ background: '#0277bd', color: '#fff' }}
+            contentArrowStyle={{ borderRight: '7px solid #0277bd' }}
             date="2019 - 2021"
-            iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+            iconStyle={{ background: '#0277bd', color: '#fff' }}
           >
             <h3 className="vertical-timeline-element-title">Desenvolvedor</h3>
             <h4 className="vertical-timeline-element-subtitle">
@@ -69,7 +69,7 @@ function Experiencia(props) {
             contentStyle={{ background: '#0277bd', color: '#fff' }}
             contentArrowStyle={{ borderRight: '7px solid  #0277bd' }}
             date="2019 - 2019"
-            iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+            iconStyle={{ background: '#0277bd', color: '#fff' }}
           >
             <h3 className="vertical-timeline-element-title">
               Consultor e Desenvolvedor de Software
