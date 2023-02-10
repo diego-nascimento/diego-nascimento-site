@@ -1,4 +1,3 @@
-import React from 'react';
 import { Container, TextContainer } from './ComingSoon.style';
 import Typical from 'react-typical';
 
